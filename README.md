@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-WIZGEN-blue?logo=google-chrome)](https://wizgen.fun/)
 [![Twitter](https://img.shields.io/badge/Twitter-WIZGEN-blue?logo=twitter)](https://x.com/WIZGENFUN).
 
+ca:CHSVeVz53zEUfeTcQq9We1mRD5gx8K5iNZMMNDj6pump
+
 🧙‍♂️ WIZGEN — The Anti-Speculative System
 
 In the crypto market, price often becomes the core of every narrative.
