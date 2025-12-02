@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "HIP3ONE_ai",
+  "name": "KINHEX_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for HIP3ONE with specified parameters.",
+        "Initializes a new governance realm for KINHEX with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -25,7 +25,7 @@
 
 
 
-      $HIP3ONE
+      $KINHEX
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
@@ -38,7 +38,7 @@ async function main() {
   const modules = loadModules(["token", "staking", "governance"]);
   const project = composeProject(modules);
 
-        $HIP3ONE
+        $KINHEX
         )}
 
     
@@ -88,15 +88,14 @@ async function getMarketChange(): Promise<number> {
 
 listenStream();
 
-        $HIP3ONE
+        $KINHEX
         )}
 
-        $HIP3ONE
+        $KINHEX
         mint(Core, clean_vector.energy);
 burn(black_memory);
 
-$HIP3ONE
-$HIP3ONE
+$KINHEX
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
    )}
@@ -215,7 +214,7 @@ $HIP3ONE
         {
            if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
-          $HIP3ONE
+          $KINHEX
           )}
           
           "name": "chapterId",
@@ -286,7 +285,7 @@ $HIP3ONE
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
 
-      $HIP3ONE
+      $KINHEX
       )}
 
       "name": "voteOnProposal",
@@ -343,13 +342,13 @@ const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
  if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
       console.log("⚡ Triggering cut sequence...");
 
-   $HIP3ONE
+   $KINHEX
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
    )}
 
-   $HIP3ONE
+   $KINHEX
   "accounts": [
     {
       "name": "Realm",
